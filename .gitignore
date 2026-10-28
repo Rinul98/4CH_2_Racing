@@ -1,0 +1,35 @@
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcworkspace
+
+# Resources: only the assets actually used (rest of the art pack stays local)
+Content/Resources/*/*
+!Content/Resources/Audio/Pickup_Coin_A.uasset
+!Content/Resources/Audio/Pickup_Coin_A_Cue.uasset
+!Content/Resources/Materials/M_Basic_Master.uasset
+!Content/Resources/Materials/M_Coin_A.uasset
+!Content/Resources/Materials/M_Star.uasset
+!Content/Resources/Materials/M_Star_B.uasset
+!Content/Resources/Materials/M_Star_C.uasset
+!Content/Resources/Materials/M_Texture_Master.uasset
+!Content/Resources/Particles/Mat_Lights.uasset
+!Content/Resources/Particles/Orb_mat.uasset
+!Content/Resources/Particles/PS_Magical.uasset
+!Content/Resources/Particles/Sphere.uasset
+!Content/Resources/Particles/T_Clouds_Masks.uasset
+!Content/Resources/Props/SM_Coin_A.uasset
+!Content/Resources/Props/SM_Star_B.uasset
+!Content/Resources/Props/SM_Star_C.uasset
+!Content/Resources/Textures/Banana_A_basecolor.uasset
+!Content/Resources/Textures/T_Banana_A_normals.uasset
+!Content/Resources/Textures/T_Coin_A_normals.uasset
+!Content/Resources/Textures/T_Star_normals.uasset
